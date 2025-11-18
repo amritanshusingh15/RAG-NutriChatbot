@@ -53,3 +53,7 @@ From a privacy standpoint, this means you don't have send potentially sensitive 
 From a speed standpoint, it means you won't necessarily have to wait for an API queue or downtime, if your hardware is running, the pipeline can run.
 And from a cost standpoint, running on your own hardware often has a heavier starting cost but little to no costs after that.
 Performance wise, LLM APIs may still perform better than an open-source model running locally on general tasks but there are more and more examples appearing of smaller, focused models outperforming larger models.
+
+## Website Overview
+---
+<img width="1321" height="791" alt="Screenshot (233)" src="https://github.com/user-attachments/assets/eeb9363f-ade7-4973-afee-ae770577a0db" />
